@@ -31,11 +31,11 @@ Data Downloaded
 Total SRR files downloaded: 20
 
 These correspond to all replicates under Normoxia and Hypoxia conditions for both LNCaP and PC3 cell lines.
-'''SRR7179504, SRR7179505, SRR7179506, SRR7179507
+```SRR7179504, SRR7179505, SRR7179506, SRR7179507
 SRR7179508, SRR7179509, SRR7179510, SRR7179511
 SRR7179520, SRR7179521, SRR7179522, SRR7179523
 SRR7179524, SRR7179525, SRR7179526, SRR7179527
-SRR7179536, SRR7179537, SRR7179540, SRR7179541'''
+SRR7179536, SRR7179537, SRR7179540, SRR7179541```
 ⚙️ Step 1: Data Download & Conversion
 Installed SRA Toolkit
 Installed using sudo apt install sra-toolkit.
