@@ -8,7 +8,6 @@ Origin: Derived from a lymph node metastasis of a human prostate adenocarcinoma.
 Clinical relevance: Represents androgen-sensitive prostate cancer.
 
 **2.PC3 (Prostate Cancer 3)**
-
 Origin: Derived from a bone metastasis of a grade IV prostate adenocarcinoma.
 Clinical relevance: Represents androgen-independent, more aggressive prostate cancer.
 
@@ -17,11 +16,17 @@ Clinical relevance: Represents androgen-independent, more aggressive prostate ca
 Perform quality control, alignment, quantification, and differential expression analysis (DEA).
 Visualize results using plots such as PCA, heatmaps, volcano plots, and pathway enrichment analysis of DEGs.
 Document the workflow in a clear and reproducible way for beginners.
+
 📂 Dataset Information
+
 Dataset Source: GSE106305, NCBI GEO
+
 Reference: Guo et al., Nature Communications, 2019
+
 This dataset investigates how hypoxia (low oxygen conditions) affects gene expression in two prostate cancer cell lines:
+
 LNCaP (androgen-sensitive, derived from a lymph node metastasis)
+
 PC3 (androgen-independent, derived from a bone metastasis)
 Raw Data Organization
 Each biological replicate is associated with a GSM ID in GEO.
