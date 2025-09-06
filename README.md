@@ -1,22 +1,19 @@
 # Bulk-RNA-Sequence
-This project demonstrates a complete Bulk RNA-Seq analysis workflow, from raw SRA files to identification of differentially expressed genes (DEGs). Steps include preprocessing, QC, alignment, quantification, normalization, statistical testing, and visualization.
+This project demonstrates a complete Bulk RNA-Seq analysis workflow, from raw SRA files to identification of differentially expressed genes (DEGs). Steps include preprocessing, QC, alignment, quantification, normalization and visualization.
 
 This dataset is designed to investigate how hypoxia (low oxygen conditions) alters gene expression in two distinct prostate cancer cell lines, each derived from different metastatic sites:
 
-LNCaP (Lymph Node Carcinoma of the Prostate)
-
+**1.LNCaP (Lymph Node Carcinoma of the Prostate)**
 Origin: Derived from a lymph node metastasis of a human prostate adenocarcinoma.
-
 Clinical relevance: Represents androgen-sensitive prostate cancer.
 
-PC3 (Prostate Cancer 3)
+**2.PC3 (Prostate Cancer 3)**
 
 Origin: Derived from a bone metastasis of a grade IV prostate adenocarcinoma.
-
 Clinical relevance: Represents androgen-independent, more aggressive prostate cancer.
 
-📌 Objectives
-Learn the basic workflow of Bulk RNA-Seq analysis.
+**📌 Objectives**
+**Learn the basic workflow of Bulk RNA-Seq analysis.**
 Perform quality control, alignment, quantification, and differential expression analysis (DEA).
 Visualize results using plots such as PCA, heatmaps, volcano plots, and pathway enrichment analysis of DEGs.
 Document the workflow in a clear and reproducible way for beginners.
